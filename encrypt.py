@@ -1,2 +1,8 @@
-nice nice
-nice nice
+Libraries
+import
+
+#Function declaration
+def encrypt():
+
+
+def decrypt():
